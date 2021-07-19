@@ -1,19 +1,15 @@
 ---
 layout: page
-title: Welcome to Lagrange!
-permalink: /about
+title: Hello!
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I am Bharathi Ramana Joshi, the sole curator of this humble abode. Most of my
+writings here revolve around my interests - which include mathematics,
+computers, programming languages (implementation and theory),
+[books](https://www.goodreads.com/user/show/76551330-bharathi), and
+[chess](https://lichess.org/@/The_Mockingbird).
 
-### Getting Started
+## Contact
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+In addition to the buttons on the menu bar/footer, you can also [message me
+anonymously](https://www.admonymous.co/brj)
