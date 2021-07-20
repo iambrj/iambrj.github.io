@@ -72,4 +72,4 @@ fun!
 # Update 20/07/2021
 
 metaKanren was accepted at the miniKanren 2021 workshop! Here's a
-[preprint](./bin/metakanren.pdf).
+[preprint](/bin/metaKanren.pdf).
