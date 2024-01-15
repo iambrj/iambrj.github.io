@@ -1,0 +1,4 @@
+- Racket hygenic macro retelling https://youtu.be/Or_yKiI3Ha4
+- The Little Learner
+- metaOCaml
+- STOKE retelling
